@@ -1,0 +1,14 @@
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/bin/Debug/net9.0/CSharpFundamentals
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/bin/Debug/net9.0/CSharpFundamentals.deps.json
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/bin/Debug/net9.0/CSharpFundamentals.runtimeconfig.json
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/bin/Debug/net9.0/CSharpFundamentals.dll
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/bin/Debug/net9.0/CSharpFundamentals.pdb
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/CSharpFundamentals.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/CSharpFundamentals.dll
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/refint/CSharpFundamentals.dll
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/CSharpFundamentals.pdb
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/CSharpFundamentals.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/learning-net-c/CSharpFundamentals/CSharpFundamentals/obj/Debug/net9.0/ref/CSharpFundamentals.dll

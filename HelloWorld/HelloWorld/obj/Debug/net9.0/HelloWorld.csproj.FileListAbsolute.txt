@@ -1,0 +1,14 @@
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/HelloWorld/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
