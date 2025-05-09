@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/bin/Debug/net9.0/Enums
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/bin/Debug/net9.0/Enums.deps.json
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/bin/Debug/net9.0/Enums.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/bin/Debug/net9.0/Enums.dll
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/bin/Debug/net9.0/Enums.pdb
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.dll
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/refint/Enums.dll
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.pdb
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/Enums.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Enums/Enums/obj/Debug/net9.0/ref/Enums.dll
