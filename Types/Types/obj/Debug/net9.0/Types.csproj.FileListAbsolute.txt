@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Types/Types/bin/Debug/net9.0/Types
+/Users/marquisedawkins/Desktop/net-c/Types/Types/bin/Debug/net9.0/Types.deps.json
+/Users/marquisedawkins/Desktop/net-c/Types/Types/bin/Debug/net9.0/Types.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Types/Types/bin/Debug/net9.0/Types.dll
+/Users/marquisedawkins/Desktop/net-c/Types/Types/bin/Debug/net9.0/Types.pdb
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.dll
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/refint/Types.dll
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.pdb
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/Types.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Types/Types/obj/Debug/net9.0/ref/Types.dll
