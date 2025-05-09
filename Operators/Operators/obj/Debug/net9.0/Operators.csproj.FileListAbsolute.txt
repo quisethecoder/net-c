@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/bin/Debug/net9.0/Operators
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/bin/Debug/net9.0/Operators.deps.json
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/bin/Debug/net9.0/Operators.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/bin/Debug/net9.0/Operators.dll
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/bin/Debug/net9.0/Operators.pdb
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.dll
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/refint/Operators.dll
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.pdb
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/Operators.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Operators/Operators/obj/Debug/net9.0/ref/Operators.dll
