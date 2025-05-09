@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/bin/Debug/net9.0/Structs
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/bin/Debug/net9.0/Structs.deps.json
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/bin/Debug/net9.0/Structs.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/bin/Debug/net9.0/Structs.dll
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/bin/Debug/net9.0/Structs.pdb
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.dll
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/refint/Structs.dll
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.pdb
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/Structs.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Structs/Structs/obj/Debug/net9.0/ref/Structs.dll
