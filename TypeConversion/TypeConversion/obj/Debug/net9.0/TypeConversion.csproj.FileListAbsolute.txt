@@ -1,0 +1,14 @@
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/TypeConversion.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/bin/Debug/net9.0/TypeConversion
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/bin/Debug/net9.0/TypeConversion.deps.json
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/bin/Debug/net9.0/TypeConversion.runtimeconfig.json
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/bin/Debug/net9.0/TypeConversion.dll
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/bin/Debug/net9.0/TypeConversion.pdb
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/TypeConversion.dll
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/refint/TypeConversion.dll
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/TypeConversion.pdb
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/TypeConversion.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/learning-net-c/TypeConversion/TypeConversion/obj/Debug/net9.0/ref/TypeConversion.dll
