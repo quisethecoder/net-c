@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/bin/Debug/net9.0/ConditionalStatements
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/bin/Debug/net9.0/ConditionalStatements.deps.json
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/bin/Debug/net9.0/ConditionalStatements.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/bin/Debug/net9.0/ConditionalStatements.dll
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/bin/Debug/net9.0/ConditionalStatements.pdb
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.dll
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/refint/ConditionalStatements.dll
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.pdb
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ConditionalStatements.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/ConditionalStatements/ConditionalStatements/obj/Debug/net9.0/ref/ConditionalStatements.dll
