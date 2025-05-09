@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/bin/Debug/net9.0/Strings
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/bin/Debug/net9.0/Strings.deps.json
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/bin/Debug/net9.0/Strings.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/bin/Debug/net9.0/Strings.dll
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/bin/Debug/net9.0/Strings.pdb
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.dll
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/refint/Strings.dll
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.pdb
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/Strings.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Strings/Strings/obj/Debug/net9.0/ref/Strings.dll
