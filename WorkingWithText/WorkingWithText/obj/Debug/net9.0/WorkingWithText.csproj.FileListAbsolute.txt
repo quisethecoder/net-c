@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/bin/Debug/net9.0/WorkingWithText
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/bin/Debug/net9.0/WorkingWithText.deps.json
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/bin/Debug/net9.0/WorkingWithText.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/bin/Debug/net9.0/WorkingWithText.dll
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/bin/Debug/net9.0/WorkingWithText.pdb
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.dll
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/refint/WorkingWithText.dll
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.pdb
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/WorkingWithText.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/WorkingWithText/WorkingWithText/obj/Debug/net9.0/ref/WorkingWithText.dll
