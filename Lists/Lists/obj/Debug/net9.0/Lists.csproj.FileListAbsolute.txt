@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/bin/Debug/net9.0/Lists
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/bin/Debug/net9.0/Lists.deps.json
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/bin/Debug/net9.0/Lists.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/bin/Debug/net9.0/Lists.dll
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/bin/Debug/net9.0/Lists.pdb
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.dll
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/refint/Lists.dll
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.pdb
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/Lists.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Lists/Lists/obj/Debug/net9.0/ref/Lists.dll
