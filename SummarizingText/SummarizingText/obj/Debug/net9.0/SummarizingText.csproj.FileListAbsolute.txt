@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/bin/Debug/net9.0/SummarizingText
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/bin/Debug/net9.0/SummarizingText.deps.json
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/bin/Debug/net9.0/SummarizingText.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/bin/Debug/net9.0/SummarizingText.dll
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/bin/Debug/net9.0/SummarizingText.pdb
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.dll
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/refint/SummarizingText.dll
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.pdb
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/SummarizingText.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/SummarizingText/SummarizingText/obj/Debug/net9.0/ref/SummarizingText.dll
