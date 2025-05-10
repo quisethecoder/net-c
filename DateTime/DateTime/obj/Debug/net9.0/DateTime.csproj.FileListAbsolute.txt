@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/bin/Debug/net9.0/DateTime
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/bin/Debug/net9.0/DateTime.deps.json
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/bin/Debug/net9.0/DateTime.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/bin/Debug/net9.0/DateTime.dll
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/bin/Debug/net9.0/DateTime.pdb
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.dll
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/refint/DateTime.dll
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.pdb
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/DateTime.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/DateTime/DateTime/obj/Debug/net9.0/ref/DateTime.dll
