@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/bin/Debug/net9.0/StringBuilder
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/bin/Debug/net9.0/StringBuilder.deps.json
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/bin/Debug/net9.0/StringBuilder.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/bin/Debug/net9.0/StringBuilder.dll
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/bin/Debug/net9.0/StringBuilder.pdb
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.dll
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/refint/StringBuilder.dll
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.pdb
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/StringBuilder.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/StringBuilder/StringBuilder/obj/Debug/net9.0/ref/StringBuilder.dll
