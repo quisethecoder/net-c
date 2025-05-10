@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Random/Random/bin/Debug/net9.0/Random
+/Users/marquisedawkins/Desktop/net-c/Random/Random/bin/Debug/net9.0/Random.deps.json
+/Users/marquisedawkins/Desktop/net-c/Random/Random/bin/Debug/net9.0/Random.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Random/Random/bin/Debug/net9.0/Random.dll
+/Users/marquisedawkins/Desktop/net-c/Random/Random/bin/Debug/net9.0/Random.pdb
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.dll
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/refint/Random.dll
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.pdb
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/Random.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Random/Random/obj/Debug/net9.0/ref/Random.dll
