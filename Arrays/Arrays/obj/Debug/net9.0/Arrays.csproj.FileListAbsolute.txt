@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/bin/Debug/net9.0/Arrays
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/Arrays/Arrays/obj/Debug/net9.0/ref/Arrays.dll
