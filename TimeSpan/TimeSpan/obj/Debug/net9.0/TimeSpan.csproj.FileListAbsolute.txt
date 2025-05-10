@@ -1,0 +1,15 @@
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/bin/Debug/net9.0/TimeSpan
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/bin/Debug/net9.0/TimeSpan.deps.json
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/bin/Debug/net9.0/TimeSpan.runtimeconfig.json
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/bin/Debug/net9.0/TimeSpan.dll
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/bin/Debug/net9.0/TimeSpan.pdb
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.AssemblyInfoInputs.cache
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.AssemblyInfo.cs
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.csproj.CoreCompileInputs.cache
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.sourcelink.json
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.dll
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/refint/TimeSpan.dll
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.pdb
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/TimeSpan.genruntimeconfig.cache
+/Users/marquisedawkins/Desktop/net-c/TimeSpan/TimeSpan/obj/Debug/net9.0/ref/TimeSpan.dll
